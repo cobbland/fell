@@ -1,0 +1,1 @@
+An individual may embed themselves within a group, becoming its **leader**. The leader and group gain the benefit of both's damage dice when each attacks, but also suffering the same harm.
