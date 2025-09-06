@@ -4,6 +4,14 @@
 
 Herein lies all the rules need to play and run *Fell*, as well as settings and alternative rules for same.
 
+## Table of Contents
+
+- [Introduction](/introduction/introduction.md)
+- [Principles of Play](/principles-of-play/principles-of-play.md)
+- [Creating a Character](/creating-a-character/creating-a-character.md)
+- [Playing the Game](/playing-the-game/)
+- [Lists and Tables](/lists-and-tables/)
+
 ## Build
 
 To build into a PDF, epub, et cetera, use [Pandoc](https://pandoc.org). Full instructions for doing so are forthcoming. 
