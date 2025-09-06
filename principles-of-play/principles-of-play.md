@@ -1,0 +1,6 @@
+- Rulings over rules
+- Fiction over mechanics
+- Information, choice, consequence
+- Danger is obvious
+- Fighting is deadly
+- Keep it weird
