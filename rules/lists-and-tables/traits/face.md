@@ -1,0 +1,10 @@
+1. Bony
+2. Broken
+3. Chiseled
+4. Elongated
+5. Pale
+6. Perfect
+7. Rat-like
+8. Sharp
+9. Square
+10. Sunken

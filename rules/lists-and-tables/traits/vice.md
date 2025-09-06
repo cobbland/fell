@@ -1,0 +1,10 @@
+1. Aggressive
+2. Bitter
+3. Craven
+4. Deceitful
+5. Greedy
+6. Lazy
+7. Nervous
+8. Rude
+9. Vain
+10. Vengeful

@@ -1,0 +1,10 @@
+1. Ambitious
+2. Boor
+3. Dangerous
+4. Entertainer
+5. Honest
+6. Loafer
+7. Oddball
+8. Repulsive
+9. Respected
+10. Wise

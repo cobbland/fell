@@ -1,0 +1,10 @@
+1. Athletic
+2. Brawny
+3. Flabby
+4. Lanky
+5. Rugged
+6. Scrawny
+7. Short
+8. Statuesque
+9. Stout
+10. Towering

@@ -1,0 +1,10 @@
+1. Antique
+2. Bloody
+3. Elegant
+4. Filthy
+5. Foreign
+6. Frayed
+7. Frumpy
+8. Livery
+9. Rancid
+10. Soiled

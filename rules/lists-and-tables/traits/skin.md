@@ -1,0 +1,10 @@
+1. Birthmark
+2. Dark
+3. Elongated
+4. Pockmarked
+5. Rosy
+6. Round
+7. Soft
+8. Tanned
+9. Tattooed
+10. Weathered

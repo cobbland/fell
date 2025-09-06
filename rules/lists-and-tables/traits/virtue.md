@@ -1,0 +1,10 @@
+1. Ambitious
+2. Cautious
+3. Courageous
+4. Disciplined
+5. Gregarious
+6. Honorable
+7. Humble
+8. Merciful
+9. Serene
+10. Tolerant

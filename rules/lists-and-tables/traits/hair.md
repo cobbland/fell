@@ -1,0 +1,10 @@
+1. Bald
+2. Braided
+3. Curly
+4. Filthy
+5. Frizzy
+6. Long
+7. Luxurious
+8. Oily
+9. Wavy
+10. Wispy
