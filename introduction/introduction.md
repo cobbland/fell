@@ -2,7 +2,7 @@
 
 *You're no hero. At best, you're a knave, wretch, or scoundrel who, along with a few untrustworthy companions, seeks fortune in this corrupted land filled with danger. Chances are high that none of you will survive the winter.*
 
-*Fell* is a tabletop roleplaying adventure game in the new old-school tradition for two or more players, inspired by Into the Odd by Chris McDowall, Cairn by Yochai Gal, and Trophy by Jesse Ross, among many other games.
+*Fell* is a [tabletop roleplaying adventure game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) in the [new](https://newschoolrevolution.com/the-new-new-school-revolution/) [old-school](https://en.wikipedia.org/wiki/Old_School_Renaissance) tradition for two or more players, inspired by [Into the Odd](https://freeleaguepublishing.com/shop/into-the-odd/) by [Chris McDowall](https://www.bastionland.com), [Cairn](https://cairnrpg.com) by [Yochai Gal](https://newschoolrevolution.com), and [Trophy](https://trophyrpg.com) by [Jesse Ross](https://jesseross.com), among many other games.
 
 One player is the referee, playing the world and its inhabitants. They adjudicate the rules, make rulings, and describe the situations the protagonist characters find themselves in.
 
@@ -10,4 +10,4 @@ The rest are protagonist characters (PCs), fortune seekers in a corrupted land f
 
 The referee tells the PCs what happens and when to roll dice.
 
-To play, you will need these rules, at least one set of polyhedral dice (d4, d6, d8, d10, d12, and d20), paper, and pencils.
+To play, you will need these rules, at least one set of [polyhedral dice](https://en.wikipedia.org/wiki/Dice#Polyhedral_dice) (d4, d6, d8, d10, d12, and d20), paper, and pencils.

@@ -2,7 +2,7 @@
 
 *Fell* is a tabletop roleplaying adventure game in the new old-school tradition for two or more players, inspired by Into the Odd by Chris McDowall, Cairn by Yochai Gal, and Trophy by Jesse Ross, among many other games.
 
-Herein lies all the rules need to play and run *Fell*, as well as settings and alternative rules for same.
+Herein lies all the rules need to play and run *Fell*, as well as settings and alternative rules for same. Alternative settings, rules, and options will begin with an underscore ("_").
 
 ## Table of Contents
 
