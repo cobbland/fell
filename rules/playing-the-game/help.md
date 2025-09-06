@@ -1,0 +1,1 @@
+When someone else attempts a task and it makes sense for you to do so, you may **help**, granting them enhancement on their test. If they fail, trouble is coming for you as well.

@@ -4,6 +4,10 @@
 
 Herein lies all the rules need to play and run *Fell*, as well as settings and alternative rules for same.
 
+## Build
+
+To build into a PDF, epub, et cetera, use [Pandoc](https://pandoc.org). Full instructions for doing so are forthcoming. 
+
 ## Credits
 
 An adventure game by [Jacob Densford](https://cobb.land/)

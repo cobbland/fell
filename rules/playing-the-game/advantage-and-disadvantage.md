@@ -1,0 +1,1 @@
+Rolls can have **advantage (ADV)** or **disadvantage (DIS)**. With advantage, roll an additional die and keep the higher result. With disadvantage, roll an additional die and keep the lower result.
