@@ -1,3 +1,5 @@
+### Equipment
+
 **Tools (1 C)**: Air bladder, animal trap, bellows, crowbar, flint & steel, glue, grappling hook, lockpicks, manacles, rope (50 feet), sack, saw, shovel, spikes, torch (1 hour), etc.
 
 **Luxuries (10 C)**: Book, face paint, fire oil, glass bottle, holy water, hourglass, incense, jewelry, lantern & oil (4 hours), mirror, musical instrument, quill & ink, salt, spyglass, etc.

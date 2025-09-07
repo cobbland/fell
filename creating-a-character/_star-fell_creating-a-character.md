@@ -1,3 +1,5 @@
+## Creating a Character
+
 Roll for your **name** (page 26).
 
 Roll for a **background** (page xx) and gain the associated **skill** and **equipment**.

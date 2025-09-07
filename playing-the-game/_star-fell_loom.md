@@ -1,3 +1,5 @@
+### Loom
+
 The **Loom** weaves the threads that bind the galaxy together. If you can work the Loom, you can attempt to use its power, usually requiring a WIL test, in the following ways:
 
 - **Alter:** Move telepathically

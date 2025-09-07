@@ -1,3 +1,5 @@
+### Luck
+
 When the way in which the world reacts to you is uncertain, the referee will roll a **luck die**—usually a d6. Higher is better. Lower is worse.
 
 A luck die may be rolled...

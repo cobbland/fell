@@ -1,3 +1,5 @@
+### Backgrounds
+
 1. **Alchemist**: *lore*, firebomb (d6, blast), bottle, fire oil
 2. **Bard**: *performance*, dagger (d4), musical instrument, face paint
 3. **Blacksmith**: *repair*, hammer (d4), brigandine (1 armor), bellows

@@ -1,3 +1,5 @@
+### Groups and Scale
+
 **Groups** of similar NPCs acting together are treated as a single unit based on their **scale**. Attacks between different scales are enhanced or impaired by their difference. Attacks have blast against groups of smaller scales. Blast by smaller scales against larger reduce their impairment. Significantly large or powerful individuals may act at a larger scale when attacking and, less often, defending.
 
 **Individual → Detachment → Warband → Legion**

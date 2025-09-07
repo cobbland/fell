@@ -1,1 +1,3 @@
+### Item Slots
+
 You have twice your STR in **item slots**. When carrying more, your rolls are impaired and you cannot recover HP. You can never carry more than double your slots. Smaller items can be bundled together. Every hundred coins-worth of treasure and coins fills one slot. **Bulky** items fill two slots and generally require two hands to carry or wield.

@@ -1,3 +1,5 @@
+## Principles of Play
+
 - Rulings over rules
 - Fiction over mechanics
 - Information, choice, consequence

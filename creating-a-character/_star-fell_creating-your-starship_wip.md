@@ -1,3 +1,5 @@
+## Creating Your Starship
+
 The party shares one starship and owes someone a debt for it.
 
 Starships have four attributes:

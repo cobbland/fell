@@ -1,3 +1,15 @@
+# Star Fell
+
+An adventure game by [Jacob Densford](https://cobb.land/)
+
+Published by [Illuminated Snail Press](https://illuminatedsnail.com)
+
+Names, Traits, and Spells from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/)
+
+Text and original images licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Introduction
+
 *The Star Fell is the vast distance between settled systems—a place of lawless wilderness where unknown dangers await. Long-abandoned derelicts float through the void, contents guarded by the silent dead, seemingly free to those who dare brave the hazards of uncharted space. Fueling stations are few and far between. There, ship captains share stories of disasters narrowly avoided and the locations of hidden riches—for a price.*
 
 *You're no hero—not yet. At best, you're a smuggler, rogue, or scoundrel who's teamed up with a few unlikely companions to carve out a living in the most dangerous corners of the galaxy. Though the odds are never in your favor, out here in the deep, a life-changing fortune is always just a handbreadth away—if you know where to look, and who to trust.*

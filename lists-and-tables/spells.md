@@ -1,3 +1,5 @@
+### Spells
+
 1. **Adhere**: An object is covered in extremely sticky slime.
 2. **Anchor**: A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side.
 3. **Animate Object**: An object obeys your commands as best it can.

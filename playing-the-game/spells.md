@@ -1,3 +1,5 @@
+### Spells
+
 To cast a **spell**, you usually must roll a WIL test.
 
 If you fail the test, the spell is still cast, but you must choose one:

@@ -1,3 +1,5 @@
+### Reactions
+
 When you encounter an NPC whose disposition towards you is not obvious, roll your WIL on the table below to determine their **reaction**. 
 
 - **1-3**: Hostile

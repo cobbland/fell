@@ -1,3 +1,5 @@
+### Turns and Rounds
+
 Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
 
 During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. PCs act first and as a group, taking their turns together. When surprised, roll a DEX contest to determine if you can act during the first round.

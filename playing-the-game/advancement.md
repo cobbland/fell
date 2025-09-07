@@ -1,3 +1,5 @@
+### Advancement
+
 When you return to relative safety bearing significant plunder gained through deadly peril, it may be possible to **advance**. If your hoard is worth...
 
 - 1,000 C, gain HP and raise one attribute (novice)

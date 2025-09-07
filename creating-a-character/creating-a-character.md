@@ -1,3 +1,5 @@
+## Creating a Character
+
 Roll for your **name** (see [Names](/lists-and-tables/names/)).
 
 Roll for a **background** (see [Backgrounds](/lists-and-tables/backgrounds.md)) and gain the associated **skill** and **equipment**.

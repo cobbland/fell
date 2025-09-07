@@ -1,1 +1,3 @@
+### Leverage
+
 If you have **leverage** and apply it, you may improve an NPC's reaction by winning a WIL contest.
