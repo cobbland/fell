@@ -1,0 +1,5 @@
+# Peasant
+
+*A tiny adventure game by [Jacob Densford](https://jacobdensford.com/) for introducing new players to B/X, 5E 2014, or 5E 2024, or for running one-shots (which assumes the DM already knows how to play), with text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), art from the public domain (some modified by [Exeunt Press](https://exeuntpress.itch.io/)), and included material from the [SRD 5.2.1](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast LLC licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).*
+
+**To create a peasant**, grab an index card (or use the back of this pamphlet), a pencil, and collect a handful of dice—1d4, 1d6, 1d8, 1d10, 1d12, and 1d20—then roll (or choose, if that’s more your style)…
